@@ -1,2 +1,2 @@
 # ngdemo
-This is a sample code for angular demo
+This is a sample code for angular demo Pramod Sah
